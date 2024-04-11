@@ -5,7 +5,7 @@
 To install the dependencies needed, navigate to the project folder and run the following command:
 ```bash
 pip install -r requirements.txt
-'''
+```
 ## Usage
 
 1. Open the file `chocolateml.ipynb`.
